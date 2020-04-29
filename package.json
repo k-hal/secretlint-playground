@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/k-hal/secretlit-playground#readme",
   "devDependencies": {
-    "@secretlint/secretlint-rule-preset-recommend": "1.1.0",
+    "@secretlint/secretlint-rule-preset-recommend": "2.0.0",
     "secretlint": "1.1.0"
   }
 }
